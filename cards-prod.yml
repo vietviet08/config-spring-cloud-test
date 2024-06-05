@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+cards:
+  message: "This is message for cards service related Prod APIs"
+  contactInfo:
+    name: "Viet Prod"
+    email: "vvivu789@gmail.com"
+  onCallSupport:
+    - (+84)777560753
+    - (+84)935526710

@@ -1,0 +1,13 @@
+
+build:
+  version: "2.0"
+
+
+loans:
+  message: "This is message for loans service related Prod APIs"
+  contactInfo:
+    name: "Nguyen Quoc Viet"
+    email: "vvivu789@gmail.com"
+  onCallSupport:
+    - (+84)777560753
+    - (+84)935526710
