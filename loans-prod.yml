@@ -4,7 +4,7 @@ build:
 
 
 loans:
-  message: "This is message for loans service related Prod APIs"
+  message: "This is message for loans service related production APIs"
   contactInfo:
     name: "Nguyen Quoc Viet"
     email: "vvivu789@gmail.com"
