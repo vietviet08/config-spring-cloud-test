@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "This is message for accounts service related Prod APIs"
+  message: "This is message for accounts service related production APIs"
   contactInfo:
     name: "Viet Prod"
     email: "vvivu789@gmail.com"
