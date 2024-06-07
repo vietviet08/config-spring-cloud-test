@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "This is message for accounts service related Developer new APIs"
+  message: "This is message for accounts service related Developer new new APIs"
   contactInfo:
     name: "Nguyen Quoc Viet"
     email: "vvivu789@gmail.com"
