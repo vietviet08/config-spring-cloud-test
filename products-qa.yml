@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "This is message for products service related QA APIs"
+  contactInfo:
+    name: "Viet QA"
+    email: "vvivu789@gmail.com"
+  onCallSupport:
+    - (+84)123456789
+    - (+84)123456789
