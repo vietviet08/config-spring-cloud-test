@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "This is message for product service related Developer new new APIs"
+  contactInfo:
+    name: "Nguyen Quoc Viet"
+    email: "vvivu789@gmail.com"
+  onCallSupport:
+    - (+84)123456789
+    - (+84)123456789
