@@ -1,10 +1,10 @@
 build:
-  version: "3.0"
+  version: "1.0"
 
 accounts:
-  message: "This is message for accounts service related Developer new new APIs"
+  message: "This is message for products service related production APIs"
   contactInfo:
-    name: "Nguyen Quoc Viet"
+    name: "Viet Prod"
     email: "vvivu789@gmail.com"
   onCallSupport:
     - (+84)123456789
