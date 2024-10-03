@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+products:
   message: "This is message for product service related Developer new new APIs"
   contactInfo:
     name: "Nguyen Quoc Viet"
