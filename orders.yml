@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-products:
+orders:
   message: "This is message for orders service related Developer new new APIs"
   contactInfo:
     name: "Nguyen Quoc Viet"
