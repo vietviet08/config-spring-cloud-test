@@ -1,1 +1,12 @@
 
+build:
+  version: "3.0"
+
+inventories:
+  message: "This is message for inventories service related Developer new new APIs"
+  contactInfo:
+    name: "Nguyen Quoc Viet"
+    email: "vvivu789@gmail.com"
+  onCallSupport:
+    - (+84)123456789
+    - (+84)123456789
