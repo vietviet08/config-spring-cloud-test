@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-cards:
+social:
   message: "This is message for social service related prod APIs"
   contactInfo:
     name: "Viet Prod"
