@@ -3,8 +3,8 @@ build:
   version: "2.0"
 
 
-inventories:
-  message: "This is message for inventories service related prod APIs"
+inventory:
+  message: "This is message for inventory service related prod APIs"
   contactInfo:
     name: "Nguyen Quoc Viet"
     email: "vvivu789@gmail.com"
