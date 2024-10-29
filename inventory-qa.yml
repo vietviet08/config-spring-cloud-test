@@ -3,8 +3,8 @@ build:
   version: "1.0"
 
 
-inventories:
-  message: "This is message for inventories service related QA APIs"
+inventory:
+  message: "This is message for inventory service related QA APIs"
   contactInfo:
     name: "Nguyen Quoc Viet"
     email: "vvivu789@gmail.com"
