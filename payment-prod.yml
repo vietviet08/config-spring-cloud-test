@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+payment:
+  message: "This is message for payment service related production APIs"
+  contactInfo:
+    name: "Viet Prod"
+    email: "vvivu789@gmail.com"
+  onCallSupport:
+    - (+84)123456789
+    - (+84)123456789
