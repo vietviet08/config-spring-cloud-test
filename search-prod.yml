@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 search:
-  message: "This is message for social service related prod APIs"
+  message: "This is message for search service related prod APIs"
   contactInfo:
     name: "Viet Prod"
     email: "vvivu789@gmail.com"
