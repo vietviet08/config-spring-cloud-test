@@ -9,3 +9,6 @@ products:
   onCallSupport:
     - (+84)123456789
     - (+84)123456789
+
+jwt:
+  set-uri: "http://keycloak:8080/realms/oralie/protocol/openid-connect/certs"
