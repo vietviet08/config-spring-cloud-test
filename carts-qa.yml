@@ -1,8 +1,8 @@
 build:
   version: "1.0"
 
-inventory:
-  message: "This is message for inventory service related QA APIs"
+carts:
+  message: "This is message for carts service related QA APIs"
   contactInfo:
     name: "Nguyen Quoc Viet"
     email: "vvivu789@gmail.com"

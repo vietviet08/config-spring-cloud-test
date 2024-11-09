@@ -1,10 +1,10 @@
 build:
-  version: "1.0"
+  version: "2.0"
 
-products:
-  message: "This is message for products service related production APIs"
+carts:
+  message: "This is message for carts service related prod APIs"
   contactInfo:
-    name: "Viet Prod"
+    name: "Nguyen Quoc Viet"
     email: "vvivu789@gmail.com"
   onCallSupport:
     - (+84)123456789
