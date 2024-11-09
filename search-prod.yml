@@ -11,4 +11,4 @@ search:
      - (+84)123456789
 
 jwt:
-  set-uri: "http://keycloak:7080/realms/oralie/protocol/openid-connect/certs"
+  set-uri: "http://keycloak:8080/realms/oralie/protocol/openid-connect/certs"
