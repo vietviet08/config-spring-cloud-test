@@ -9,3 +9,6 @@ orders:
   onCallSupport:
     - (+84)123456789
     - (+84)123456789
+
+store:
+  url: http://localhost:3000
