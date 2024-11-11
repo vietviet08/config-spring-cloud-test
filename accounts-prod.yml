@@ -11,5 +11,9 @@ accounts:
     - (+84)123456789
     - (+84)123456789
 
+
+url:
+  social: "http://social:8086"
+
 jwt:
   set-uri: "http://keycloak:8080/realms/oralie/protocol/openid-connect/certs"
