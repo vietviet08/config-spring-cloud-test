@@ -10,5 +10,8 @@ products:
     - (+84)123456789
     - (+84)123456789
 
+url:
+  social: "http://localhost:8086"
+
 jwt:
   set-uri: "http://localhost:7080/realms/oralie/protocol/openid-connect/certs"
