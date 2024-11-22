@@ -12,3 +12,6 @@ inventory:
 
 jwt:
   set-uri: "http://localhost:7080/realms/oralie/protocol/openid-connect/certs"
+
+url:
+  orders: "http://localhost:8081"
