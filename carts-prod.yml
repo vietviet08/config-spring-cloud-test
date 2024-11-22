@@ -12,3 +12,6 @@ carts:
 
 jwt:
   set-uri: "http://keycloak:8080/realms/oralie/protocol/openid-connect/certs"
+
+url:
+  orders: "http://orders:8082"
