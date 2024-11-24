@@ -1,0 +1,17 @@
+build:
+  version: "3.0"
+
+rates:
+  message: "This is message for rates service related Developer new new APIs"
+  contactInfo:
+    name: "Nguyen Quoc Viet"
+    email: "vvivu789@gmail.com"
+  onCallSupport:
+    - (+84)123456789
+    - (+84)123456789
+
+jwt:
+  set-uri: "http://localhost:7080/realms/oralie/protocol/openid-connect/certs"
+
+url:
+  accounts: http://localhost:8080
