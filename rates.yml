@@ -14,4 +14,4 @@ jwt:
   set-uri: "http://localhost:7080/realms/oralie/protocol/openid-connect/certs"
 
 url:
-  accounts: http://localhost:8080
+  accounts: "http://localhost:8080"
