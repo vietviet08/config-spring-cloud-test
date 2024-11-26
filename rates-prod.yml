@@ -15,3 +15,4 @@ jwt:
 
 url:
   accounts: "http://accounts:8080"
+  products: "http://proudcts:8081"
