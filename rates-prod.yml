@@ -16,3 +16,4 @@ jwt:
 url:
   accounts: "http://accounts:8080"
   products: "http://proudcts:8081"
+  social: "http://social:8086"
