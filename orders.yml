@@ -17,4 +17,5 @@ jwt:
   set-uri: "http://localhost:7080/realms/oralie/protocol/openid-connect/certs"
 
 url: 
+  products: http://localhost:8081
   carts: http://localhost:8082 
