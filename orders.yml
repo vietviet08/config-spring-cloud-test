@@ -19,3 +19,9 @@ jwt:
 url: 
   products: http://localhost:8081
   carts: http://localhost:8082 
+
+paypal:
+  cancel:
+    url: http://localhost:3000/checkout/cancel
+  success:
+    url: http://localhost:3000/checkout/success
