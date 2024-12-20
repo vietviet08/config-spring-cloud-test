@@ -12,3 +12,5 @@ search:
 
 jwt:
   set-uri: "http://keycloak:8080/realms/oralie/protocol/openid-connect/certs"
+url:
+  products: "http://products:8081"
