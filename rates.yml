@@ -17,3 +17,4 @@ url:
   accounts: "http://localhost:8080"
   products: "http://localhost:8081"
   social: "http://localhost:8086"
+  orders: "http://localhost:8083"
